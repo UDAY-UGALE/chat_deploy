@@ -14,5 +14,6 @@ langchain_experimental
 numpy
 pinecone-client
 gunicorn
+langchain-google-genai
 
 -e .
